@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/npm%20install/static/css/main.73d56f44.css",
+    "main.js": "/npm%20install/static/js/main.f966ea38.js",
+    "static/media/chair.png": "/npm%20install/static/media/chair.680df9832ea9d4cb38aa.png",
+    "static/media/pillow.png": "/npm%20install/static/media/pillow.3a211e00d5dd9ad21da7.png",
+    "static/media/plant.png": "/npm%20install/static/media/plant.9a7f01a08705b6e12724.png",
+    "static/media/light.png": "/npm%20install/static/media/light.9cb17b6cdb9f3088372e.png",
+    "index.html": "/npm%20install/index.html",
+    "main.73d56f44.css.map": "/npm%20install/static/css/main.73d56f44.css.map",
+    "main.f966ea38.js.map": "/npm%20install/static/js/main.f966ea38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d56f44.css",
+    "static/js/main.f966ea38.js"
+  ]
+}
