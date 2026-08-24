@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/onlineshop/static/css/main.73d56f44.css",
-    "main.js": "/onlineshop/static/js/main.31e0b9e8.js",
+    "main.js": "/onlineshop/static/js/main.507f2a83.js",
     "static/media/chair.png": "/onlineshop/static/media/chair.680df9832ea9d4cb38aa.png",
     "static/media/pillow.png": "/onlineshop/static/media/pillow.3a211e00d5dd9ad21da7.png",
     "static/media/plant.png": "/onlineshop/static/media/plant.9a7f01a08705b6e12724.png",
     "static/media/light.png": "/onlineshop/static/media/light.9cb17b6cdb9f3088372e.png",
     "index.html": "/onlineshop/index.html",
     "main.73d56f44.css.map": "/onlineshop/static/css/main.73d56f44.css.map",
-    "main.31e0b9e8.js.map": "/onlineshop/static/js/main.31e0b9e8.js.map"
+    "main.507f2a83.js.map": "/onlineshop/static/js/main.507f2a83.js.map"
   },
   "entrypoints": [
     "static/css/main.73d56f44.css",
-    "static/js/main.31e0b9e8.js"
+    "static/js/main.507f2a83.js"
   ]
 }
